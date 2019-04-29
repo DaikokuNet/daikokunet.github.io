@@ -1,0 +1,76 @@
+@charset "Shift_JIS";
+
+/*--------------------------------------------------------
+  フルCSSプロフェッショナルテンプレート部品設定
+--------------------------------------------------------*/
+
+.hpb-parts-cnt-style
+{
+    border-color: #8ac141;
+    text-align: left;
+}
+
+.hpb-parts-hl-style
+{
+    margin-top: 5px;
+    padding: 5px 0.2em;
+    border-color: #8ac141;
+}
+
+.hpb-parts-cbox-style
+{
+    border-color: #8ac141;
+}
+
+.hpb-parts-img-02
+{
+    background-color: #ffffff;
+}
+
+.hpb-parts-hr-style
+{
+    border-color: #8ac141;
+}
+
+.hpb-parts-pbox-style
+{
+    background-color: #8ac141;
+    border-color: #ffffff;
+    color: #ffffff;
+}
+.hpb-parts-pbox-style h4
+{
+    margin: 0px;
+    padding: 0px;
+    background-image: none;
+    display: block;
+}
+.hpb-parts-pbox-style img
+{
+    background-color: #ffffff;
+}
+
+.hpb-parts-blist-style
+{
+    border-color: #8ac141;
+}
+a.hpb-parts-blist-style:link
+{
+    color: #666666;
+}
+a.hpb-parts-blist-style:visited
+{
+    color: #666666;
+}
+a.hpb-parts-blist-style:hover
+{
+    color: #8ac141;
+}
+a.hpb-parts-blist-style:active
+{
+    color: #8ac141;
+}
+
+/*--------------------------------------------------------
+  ユーザー設定スタイル
+--------------------------------------------------------*/

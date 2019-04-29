@@ -1,0 +1,260 @@
+/* CSS Document */
+
+/*■初期設定*/
+
+body{
+	color:#000000;/*通常のテキストカラー*/
+	}
+a{
+	color:#0099FF;/*通常のリンクテキストカラー*/
+	}
+a:hover{
+	color:#FF9900;/*マウスが乗った時の通常のリンクテキストカラー*/
+	text-decoration:underline;/*マウスが乗った時下線を表示（つけない場合は underline を none へ）*/
+	}
+
+/*■初期設定ここまで*/
+
+
+
+*{ margin:0; padding:0;}
+img{ border:0;}
+
+table,div{
+	margin:auto;
+	}
+
+/*■フォントサイズ調整*/
+body {
+    font-size: 13px; /* モダンブラウザ */
+    *font-size: small; /* IE 7 */
+    *font: x-small; /* IE 6以下 */
+}
+p,th,td,li{
+	font-size:12px;
+	*font-size:90%;
+	*font:80%;
+	}
+
+body{
+	text-align:center;
+	}
+
+
+
+.CNT{ text-align:center;}
+.R{ text-align:right;}
+.L{ text-align:left;}
+
+
+
+
+
+
+/**レイアウト**/
+#bg{
+	width:800px;
+	text-align:left;
+	}
+#container{
+	margin:0 10px 0 10px;
+	}
+#head{
+	background:url(img/tpl/bg_head.jpg) no-repeat left top;
+	height:70px;
+	zoom:100%;
+	margin:0 0 20px 0;
+	}
+#head h1{
+	height:20px;
+	line-height:16px;
+	font-size:11px;
+	color:#FFFFFF;
+	font-weight:normal;
+	text-indent:10px;
+	}
+#head h2{
+	float:left;
+	width:520px;
+	margin:0px 0 0 10px;
+	}
+#head h2 a{
+	text-decoration:none;
+	color:#FFFFFF;
+	font-size:24px;
+	font-weight:normal;
+	text-decoration:none;
+	}
+#head h2 a:hover{
+	color:#FFFFFF;
+	text-decoration:none;
+	}
+#head div#right{
+	float:left;
+	width:228px;
+	}
+#head div#right p{
+	color:#FFFFFF;
+	margin:4px 20px 8px 20px;
+	font-size:12px;
+	line-height:16px;
+	}
+
+.line01{
+	clear:left;
+	height:1px;
+	font-size:1px;
+	}
+		
+#contents{
+	clear:left;
+	}
+#contents div.txt{
+	margin:0 20px 0 20px;
+	}
+#contents div.txt p{
+	line-height:180%;
+	margin:0 0 20px 0;
+	}	
+
+/* width:163px;*/
+#g_menu{
+	float:left;
+	width:173px;
+	}
+#g_menu ul{
+	list-style-type:none;
+	margin:0 0 0 0;
+	}
+#g_menu ul li{
+	margin:8px 0 0 0;
+	}
+#g_menu ul li a{
+	background:url(img/tpl/bg_menu.jpg) no-repeat;
+	width:150px;
+	height:34px;
+	line-height:34px;
+	font-size:12px;
+	background-color:#ffffff;
+	color:#ffffff;
+	display:block;
+	text-indent:15px;
+	text-decoration:none;
+	}
+#g_menu ul li a:hover{
+	background:url(img/tpl/bg_menu_on.jpg) no-repeat;
+	text-decoration:none;
+	}
+#main{
+	float:left;
+	margin:10px 0 10px 12px;
+	width:590px;
+	}
+#main h3{
+	font-size:18px;
+	font-weight:bold;
+	color:#333333;
+	}
+#main h4{
+	margin:10px 0 5px 0;
+	background:url(img/tpl/bg_list01.gif) no-repeat left;
+	text-indent:20px;
+	line-height:1.2em;
+	font-size:18px;
+	vertical-align:top;
+	color:#333333;
+	}
+
+#foot_up{
+	clear:both;
+	height:20px;
+	}
+
+#foot{
+	background:url(img/tpl/bg_foot.jpg) left top no-repeat;
+	color:#FFFFFF;
+	height:40px;
+	clear:left;
+	text-align:center;
+	font-size:10px;
+	height:60px;
+	line-height:60px;
+	width:800px;
+	}
+#foot a{
+	color:#ffffff;
+	text-decoration:none;
+	}
+#foot a:hover{
+	color:#ffffff;
+	}
+	
+/*トップ*/
+#top{}
+#top p{
+	margin:2px 10px 10px 10px;
+	line-height:1.6em;
+	}
+#top div#news{
+	width:580px;
+	border: #999999 dotted;
+	border-width:1px 0 1px 0;
+	padding:0 0 10px 0;
+	}
+#top div#news p.day{
+	color:#666666;
+	font-weight:bold;
+	font-size:100%;
+	background:url(img/tpl/bg_list02.gif) no-repeat center left;
+	text-indent:10px;
+	vertical-align:top;
+	margin:10px 0 0 0;
+	}
+#top div#news p{
+	margin:2px 10px 0 10px;
+	}
+
+
+
+/*サブページ*/
+#other p{
+	line-height:1.6em;
+	}
+
+
+
+
+/***↓著作権表示※削除しないでください↓***/
+
+#p-copy{
+	float:right;
+	margin-top:30px;
+	}
+
+#copy_box {
+	width:40px;
+	height:13px;
+	}
+
+#p-copy .p_01 a{
+	background:url(img/tpl/logo_01.gif) no-repeat;
+	display:block;
+	width:28px;
+	height:13px;
+	text-indent:-9999px;
+	float:left;
+	}
+#p-copy .p_02 a{
+	background:url(img/tpl/logo_02.gif) no-repeat;
+	display:block;
+	width:12px;
+	height:13px;
+	text-indent:-9999px;
+	float:right;
+	}
+*:first-child+html #copy_box {
+	float:right;
+	}
+
+
+/*** ここまで ***/

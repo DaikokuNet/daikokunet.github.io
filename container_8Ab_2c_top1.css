@@ -1,0 +1,209 @@
+@charset "Shift_JIS";
+
+/* 要素リセット */
+body{
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    font-size: 75%;
+    font-family: 'メイリオ' ,Meiryo, 'ヒラギノ角ゴ Pro W3' , 'Hiragino Kaku Gothic Pro' , 'ＭＳ Ｐゴシック' , 'Osaka' ,sans-serif;
+    color: #000000; /* 標準文字色 */
+    background-color: #F0F0F0;
+    background-image : url(bg_8Ab.png);
+    background-position: top center;
+    background-repeat: repeat-y;
+}
+/* Safari用ハック 文字サイズ調整 */
+/*\*/
+html:\66irst-child body{
+    font-size: 70%;
+}
+/* end */
+
+img{
+    border-top: 0;
+    border-right: 0;
+    border-bottom: 0;
+    border-left: 0;
+}
+
+/*--------------------------------------------------------
+  レイアウト設定
+--------------------------------------------------------*/
+#hpb-container{
+    width: 870px;
+    margin-top: -1px;
+    margin-right: auto;
+    margin-bottom: 0;
+    margin-left: auto;
+    position: relative;
+    padding-bottom: 15px;
+    background-color: #FFFFFF;
+}
+
+#hpb-header{
+    height: 85px;
+    margin-left: auto;
+    margin-right: auto;
+    overflow: hidden;
+    position: relative;
+}
+
+#hpb-inner{
+    position: relative;
+    margin-top: 0;
+    padding-top: 60px;
+    padding-bottom: 40px;
+    zoom: 1;
+}
+
+#hpb-inner:after{
+    content: ".";
+    clear: both;
+    height: 0;
+    display: block;
+    visibility: hidden;
+}
+
+#hpb-wrapper{
+    width: 685px;
+    float: left;
+}
+
+#hpb-title{
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
+#hpb-main{
+    margin-top: 15px;
+}
+
+#hpb-aside{
+    width: 170px;
+    float: right;
+}
+
+#hpb-footer{
+    clear: both;
+    position: relative;
+    padding-bottom: 30px;
+}
+
+#hpb-nav{
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 870px;
+    height: 45px;
+    overflow: hidden;
+    background-image : url(menuBg_8Ab_01.png);
+    background-position: top center;
+    background-repeat: repeat-x;
+}
+
+
+/*--------------------------------------------------------
+  デザイン設定
+--------------------------------------------------------*/
+/* コンテンツ配置領域 */
+
+/* ナビゲーション */
+#hpb-nav ul{
+    margin-top: -1px;
+    margin-right: 0;
+    margin-bottom: 0;
+    margin-left: 0;
+    padding-top: 0;
+    padding-right: 0;
+    padding-bottom: 0;
+    padding-left: 0;
+    list-style-type: none;
+}
+
+#hpb-nav ul:after{
+    content: ".";
+    clear: both;
+    height: 0;
+    display: block;
+    visibility: hidden;
+}
+
+#hpb-nav li{
+    display: block;
+    margin-left: 0;
+    margin-right: 0;
+    float: left;
+    height: 45px;
+    overflow: hidden;
+    text-align: center;
+}
+
+* html #hpb-nav li{
+    width: 120px; /* for IE6 */
+}
+
+#hpb-nav li a{
+    display: block;
+    height: 45px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+#hpb-nav li span.en{
+    display: block;
+    line-height: 30px;
+    font-size: 12px;
+    font-weight: bold;
+    height: 23px;
+    overflow: hidden;
+    text-transform: uppercase;
+}
+
+#hpb-nav li span.ja{
+    display: block;
+    line-height: 21px;
+    font-size: 11px;
+    font-weight: bold;
+    height: 23px;
+    overflow: hidden;
+}
+
+#hpb-nav a:link{
+    color: #ffffff;
+    text-decoration: none;
+    background-image : url(menuBg_8Ab_01.png);
+    background-position: top left;
+    background-repeat: repeat-x;
+}
+#hpb-nav a:visited{
+    color: #ffffff;
+    text-decoration: none;
+    background-image : url(menuBg_8Ab_01.png);
+    background-position: top left;
+    background-repeat: repeat-x;
+}
+#hpb-nav a:hover{
+    color: #ffffff;
+    text-decoration: none;
+    background-image : url(menuBg_8Ab_01_on.png);
+    background-position: top left;
+    background-repeat: repeat-x;
+}
+#hpb-nav a:active{
+    color: #ffffff;
+    text-decoration: none;
+    background-image : url(menuBg_8Ab_01_on.png);
+    background-position: top left;
+    background-repeat: repeat-x;
+}
+
+/*--------------------------------------------------------
+  共通パーツデザイン設定
+--------------------------------------------------------*/
+
+#pagetop a
+{
+    /* 先頭に戻るボタンの左右設定 */
+}
+

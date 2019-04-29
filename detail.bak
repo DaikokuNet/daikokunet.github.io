@@ -1,0 +1,384 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html lang="ja">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=Shift_JIS">
+<meta http-equiv="Content-Style-Type" content="text/css">
+<meta http-equiv="Content-Script-Type" content="text/javascript">
+<meta name="GENERATOR" content="JustSystems Homepage Builder Version 18.0.14.0 for Windows">
+<title>商品詳細&nbsp;-&nbsp;だいこくネット</title>
+<link rel="stylesheet" href="hpbparts.css" type="text/css" id="hpbparts">
+<link rel="stylesheet" href="container_8Ab_2c_top1.css" type="text/css" id="hpbcontainer">
+<link rel="stylesheet" href="main_8Ab_2c1.css" type="text/css" id="hpbmain">
+<link rel="stylesheet" href="user3.css" type="text/css" id="hpbuser"> </head>
+<body id="hpb-template-08-01b-01" class="hpb-layoutset-02">
+<div id="hpb-skip"><a href="#hpb-title">本文へスキップ</a></div>
+<!-- container -->
+<div id="hpb-container">
+  <!-- header -->
+  <div id="hpb-header">
+    <div id="hpb-headerMain">
+      <h1>だいこくネットはあなたのセキュリティの手助けをします。</h1>
+    </div>
+    <div id="hpb-headerLogo"><a href="index.html">だいこくネット</a></div>
+    <div id="hpb-headerExtra1">
+      <p class="tel"><span></span></p>
+      <p class="mail"><a href="mailto:facclog@ybb.ne.jp?Subject=Facclog%96%E2%82%A2%8D%87%82%ED%82%B9">メールでのお問い合わせはこちら</a></p>
+    </div>
+    <div id="hpb-headerExtra2" style="z-index : 1;">
+      </div>
+  </div>
+  <!-- header end --><!-- inner -->
+  <div id="hpb-inner">
+    <!-- wrapper -->
+    <div id="hpb-wrapper">
+      <!-- page title -->
+      <div id="hpb-title">
+        <h2><span class="ja">製品詳細</span><span class="en">SOFTWARE</span></h2>
+      </div>
+      <!-- page title end --><!-- main -->
+      <div id="hpb-main">
+        <!-- detail -->
+        <div id="detail" style="text-align : left;" align="left">
+          <h3>FALterm <img src="icon_new.gif" width="35" height="13" alt="New!"></h3>
+          <div class="hpb-parts-cnt-01 hpb-parts-cnt-style hpb-clearfix">
+            FAccLogは2002年の開発開始から16年、元のベースコードが古く拡張性の確保が難しくなっていました。<br>
+            この度、新しいライブラリの利用や処理フローを見直し、１から作り直し特に柔軟性や保守性の高いプログラムにしています。<br>
+            また、オープンソースにすることで、ソフトウェアの設計内容（ソースコード）を誰もが自由にコードを利用できるようにしています。開発、流通に携わることにより、より高品質で柔軟かつ廉価なソフトウェア開発の実現を目指しています。<br>
+          　環境 Visual staio 2017 C言語<br>
+            　動作 Windows 10、Windows 2012以上　SMB2.0以上<br>
+            <br>
+            FAccLog と FALtermの機能差について<br>
+            <table border="1">
+              <tbody>
+                <tr>
+                  <td style="text-align : center;" align="center">機能</td>
+                  <td style="text-align : center;" align="center">&nbsp;&nbsp;FAccLog<br>
+                  Ultimate</td>
+                  <td style="text-align : center;" align="center">&nbsp;FALterm</td>
+                  <td width="64" style="text-align : center;" align="center">&nbsp;備考</td>
+                </tr>
+                <tr>
+                  <td>&nbsp;接続ログ</td>
+                  <td style="text-align : center;">&nbsp;〇</td>
+                  <td style="text-align : center;">〇</td>
+                  <td width="64">&nbsp;</td>
+                </tr>
+                <tr>
+                  <td>&nbsp;読取ログ</td>
+                  <td style="text-align : center;" align="center">&nbsp;〇</td>
+                  <td style="text-align : center;" align="center">〇</td>
+                  <td width="64" style="text-align : center;" align="center">&nbsp;</td>
+                </tr>
+                <tr>
+                  <td height="19">&nbsp;書込ログ</td>
+                  <td height="19" style="text-align : center;" align="center">&nbsp;〇</td>
+                  <td height="19" style="text-align : center;" align="center">〇</td>
+                  <td width="64" height="19" style="text-align : center;" align="center">&nbsp;</td>
+                </tr>
+                <tr>
+                  <td>&nbsp;削除ログ</td>
+                  <td style="text-align : center;" align="center">&nbsp;〇</td>
+                  <td style="text-align : center;" align="center">〇</td>
+                  <td style="text-align : center;" align="center">&nbsp;</td>
+                </tr>
+                <tr>
+                  <td>&nbsp;名前変更ログ</td>
+                  <td style="text-align : center;" align="center">&nbsp;〇</td>
+                  <td style="text-align : center;" align="center">〇</td>
+                  <td style="text-align : center;" align="center">&nbsp;</td>
+                </tr>
+                <tr>
+                  <td>接続エラーログ</td>
+                  <td style="text-align : center;" align="center">ー</td>
+                  <td style="text-align : center;" align="center">〇</td>
+                  <td style="text-align : center;" align="center">&nbsp;</td>
+                </tr>
+                <tr>
+                  <td>&nbsp;アクセスエラーログ</td>
+                  <td style="text-align : center;" align="center">&nbsp;ー</td>
+                  <td style="text-align : center;" align="center">〇</td>
+                  <td style="text-align : center;" align="center">&nbsp;</td>
+                </tr>
+                <tr>
+                  <td>&nbsp;ログローテーション</td>
+                  <td style="text-align : center;" align="center">&nbsp;〇</td>
+                  <td style="text-align : center;" align="center">ー</td>
+                  <td style="text-align : center;" align="center">&nbsp;</td>
+                </tr>
+                <tr>
+                  <td>&nbsp;サービス起動</td>
+                  <td style="text-align : center;" align="center">&nbsp;〇</td>
+                  <td style="text-align : center;" align="center">ー</td>
+                  <td style="text-align : center;" align="center">&nbsp;</td>
+                </tr>
+                <tr>
+                  <td>&nbsp;SMB1.0</td>
+                  <td style="text-align : center;" align="center">&nbsp;〇</td>
+                  <td style="text-align : center;" align="center">ー</td>
+                  <td style="text-align : center;" align="center">&nbsp;</td>
+                </tr>
+                <tr>
+                  <td>&nbsp;SMB2.0以上</td>
+                  <td style="text-align : center;" align="center">&nbsp;〇</td>
+                  <td style="text-align : center;" align="center">〇&nbsp;</td>
+                  <td style="text-align : center;" align="center">&nbsp;</td>
+                </tr>
+                <tr>
+                  <td>&nbsp;オープンソース</td>
+                  <td style="text-align : center;" align="center">ー</td>
+                  <td style="text-align : center;" align="center">〇&nbsp;</td>
+                  <td style="text-align : center;" align="center">&nbsp;</td>
+                </tr>
+                <tr>
+                  <td>&nbsp;ライセンス</td>
+                  <td style="text-align : center;" align="center">有料</td>
+                  <td style="text-align : center;" align="center">無料</td>
+                  <td style="text-align : center;" align="center">&nbsp;</td>
+                </tr>
+                <tr>
+                  <td>&nbsp;保守開発支援</td>
+                  <td style="text-align : center;" align="center">ー</td>
+                  <td style="text-align : center;" align="center">有料</td>
+                  <td style="text-align : center;" align="center">&nbsp;</td>
+                </tr>
+              </tbody>
+            </table>
+          </div>
+          <div class="hpb-parts-cnt-01 hpb-parts-cnt-style hpb-clearfix">
+            ■github サイト（<span class="author" itemprop="author" style="box-sizing: border-box;"><a class="url fn" rel="author" href="https://github.com/DaikokuNet" style="box-sizing: border-box; background-color: transparent; color: rgb(3, 102, 214); text-decoration: none;">DaikokuNet</a></span><span class="path-divider" style="box-sizing: border-box; margin: 0px 0.25em;">/</span><strong itemprop="name" style="box-sizing: border-box; font-weight: 600;"><a data-pjax="#js-repo-pjax-container" href="https://github.com/DaikokuNet/FALterm" style="box-sizing: border-box; background-color: transparent; color: rgb(3, 102, 214); text-decoration: none;">FALterm</a></strong>）　※こちらのほうが最新版になります
+            <table border="0" cellpadding="0" cellspacing="0" id="HPB_LINK_MENU_TABLE_180701101358" class="hpb-vmenu1">
+              <tbody>
+                <tr>
+                  <td class="hpb-vmenu1-idle1" style="text-align : center;" align="center" valign="middle" width="70" height="25"><a href="https://github.com/DaikokuNet/FALterm" class="hpb-vmenu1-link1" target="_blank">github</a></td>
+                </tr>
+              </tbody>
+            </table>
+            <br>
+            ■ソースのダウンロードサイト<br>
+            <font class="d" align="left"><b><a href="http://cgi.geocities.jp/daikoku_yu/cgi-bin/pagecon.cgi?page=http://www.daikokunet.jp/soft/FALterm/FALterm.zip&amp;name=FALterm"><img width="22" height="26" align="middle" alt="FAccLog Ultimate ダウンロード" src="img_n028.gif" border="0">ダウンロード</a></b></font><br>
+          </div>
+          <h3>FAccLog Ultimate</h3>
+          <p><font color="#ff8040"><b>今、お使いのファイルサーバは「いつ」「誰が」「どこに」「何をしたか」を把握していますか？</b><i><font color="#0000ff"><font color="#ff8040"><b>　<br>
+          </b></font></font></i><b>そんな心配を感じているあなたに、ファイルサーバのアクセス監視ならこれ！</b></font><font size="-1"><br>
+          </font><br>
+          <img src="fal_ent.jpg" width="368" height="218" alt="商品イメージ1" class="left">2018/03/28 UP!<BR>
+          <font class="d" align="left"><B>FAccLog Ultimate 1.88s[FP101]　　　　342,552 Bytes<BR>
+          　File Version[Build FALS1188 | FALP0101]<BR>
+          </B></font><BR>
+          <FONT color="#cc0000">FAccLog Ultimateは、FAccLog Entepriseで高評いただいたGUIはそのままに、 安定性・処理高速化、Windows
+          Server 2012にも対応しました。 </FONT> <BR>
+          <BR>FAccLog Ultimate は、プライバシーマーク、個人情報保護法などの情報漏洩対策を目的とし、公開している共有フォルダのアクセスを監視したいお客様向けの製品です。<BR>セキュリティ監査項目に必須とされるアクセスログの管理をサポートします。 <BR>
+          <BR>FAccLog Ultimateを導入することで、ファイルサーバにアクセスしてきたユーザの履歴が収集でき、収集したアクセスログは、監査用としての情報源として利用することが可能です。 <BR>
+          <BR>FAccLog Ultimateは、パケットキャプチャ型のアクセス監視を行い、お使いのサーバにインストールするだけなので、 クライアントPCへの煩わしいインストール作業や各PCへの設定作業はいりません。<BR>また、パケットキャプチャ型のアクセス監視なため、サーバへの負荷も低く抑えられていますのでサーバへの負担は低く、 アクセス情報はログとして収集可能ですので、市販のログ監視などに容易に組み合わせることも可能です。<BR>
+          <BR>アクセス監視としては、運用をより細かくサポートできるようにオプションも豊富です。<BR> 収集可能なアクセスは「参照」「書込」「リネーム」「削除」とセキュリティを網羅する内容となっており また、FAccLog Ultimateを導入することで、ユーザの一連操作に関連付けられたTREE IDから、 ログインしてログアウトまでの間に行ったアクセス情報が簡単に抽出が可能です。<BR>
+          <BR> 動作には「WinPcap」のインストールが必要となります。<BR>WinPcapのインストールについては、WinPcap関連のホームページをご覧ください。 http://www.winpcap.org/<BR>
+          <BR>一か月間の試供も可能です。<BR>
+          <br>
+          <font size="+1">最新のバージョン　：　FAccLog Ultimate 1.88s[FP101]</font><BR>
+          </p>
+          <DIV class="txt"><font class="d" align="left"><B><a href="http://cgi.geocities.jp/daikoku_yu/cgi-bin/pagecon.cgi?page=http://www.daikokunet.jp/soft/ULT188sFP101/FAccLog_Ultimate.zip&amp;name=FAccLog_Ultimate188s_FP101"><img width="22" height="26" align="middle" alt="FAccLog Ultimate ダウンロード" src="img_n028.gif" border="0">ダウンロード</a>         <a href="http://www.vector.co.jp/soft/winnt/util/se479701.html" target="_blank"><img width="22" height="26" align="middle" alt="FAccLog Ultimate ライセンス購入" src="img_n0281.gif" border="0">ライセンス購入</a>         <a href="order.html" target="_blank"><img width="22" height="26" align="middle" alt="FAccLog Ultimate ライセンス購入" src="img_n0282.gif" border="0">銀行振り込みでのご購入</a>         <a href="http://www.daikokunet.jp/fal_mail/paypal.html" target="_blank"><img width="22" height="26" align="middle" alt="FAccLog Ultimate ライセンス購入" src="img_n0283.gif" border="0">PayPalでのご購入</a> </B><BR>
+          </font></DIV>
+          <p><font class="d" align="left" size="+1" style="font-size : 117%;" color="#ff0000"><i>※ライセンスキーを入力しない場合でも「１ヵ月」フル機能で試供ができます。<br>
+          </i></font><font class="d" align="left" size="+2" style="font-size : 150%;"><BR>
+          <BR>
+          前回のバージョン　：　FAccLog Ultimate 1.87s[FP101]<BR>
+          </font></p>
+          <div class="txt"><font class="d" align="left"><B><a href="http://cgi.geocities.jp/daikoku_yu/cgi-bin/pagecon.cgi?page=http://www.daikokunet.jp/soft/ULT187sFP101/FAccLog_Ultimate.zip&amp;name=FAccLog_Ultimate187s_FP101"><img width="22" height="26" align="middle" alt="FAccLog Ultimate ダウンロード" src="img_n029.gif" border="0">ダウンロード</a>         <a href="http://www.vector.co.jp/soft/winnt/util/se479701.html" target="_blank"><img width="23" height="26" align="middle" alt="FAccLog Ultimate ライセンス購入" src="img_n0291.gif" border="0">ライセンス購入</a>         <a href="order.html" target="_blank"><img width="22" height="26" align="middle" alt="FAccLog Ultimate ライセンス購入" src="img_n0292.gif" border="0">銀行振り込みでのご購入</a>         <a href="http://www.daikokunet.jp/fal_mail/paypal.html" target="_blank"><img width="22" height="26" align="middle" alt="FAccLog Ultimate ライセンス購入" src="img_n0293.gif" border="0">PayPalでのご購入</a> </B></font><br>
+          <br>
+            <hr style="background-image : url(img_p026.png);">
+          </div>
+          <hr>
+          <img src="detail-img02.jpg" width="270" height="216" alt="商品イメージ2" class="left">
+          <h4>メモリパフォーマンス設定のオプションライセンス</h4>
+          <p>セッション情報、コネクション情報、リストビュー表示の管理情報数を変更し大規模の環境に合わせチューニングが可能となります。<BR>
+          　メモリ拡張については追加ライセンス費用が必要です。<BR>
+          　　　・「Normal　パフォーマンス」　※デフォルト値<BR>
+          　　　　　ユーザ数　10-20名を想定<BR>
+          　　　・「Middle　パフォーマンス」　※追加ライセンス費用が必要<BR>
+          　　　　　ユーザ数 　50-60名を想定<BR>
+          　　　・「Hi　パフォーマンス」　※追加ライセンス費用が必要<BR>
+          　　　　　ユーザ数　 70-80名を想定<BR>
+          ※「Hi パフォーマンス」では、任意に管理情報数を設定できるため、<BR>
+          大規模の環境に合わせチューニングが可能となります。<br>
+          <br>
+          <a href="order.html" target="_blank"><img width="22" height="22" align="middle" alt="オプションライセンス購入" src="img_n023.gif" border="0">銀行振り込みでのご購入</a> <br>
+          </p>
+          <hr style="background-image : url(img_p026.png);">
+          <p><BR>
+          </p>
+          <hr>
+          <img src="fal_ent.jpg" width="341" height="216" alt="商品イメージ3" class="left">
+          <h4>FAccLog Ultimate Free</h4>
+          <div class="txt" align="left" style="text-align : left;">2013/07/24 UP!<br>
+          <font class="d" align="left"><b>FAccLog Ultimate Free 1.88[FP1] 342,181 Bytes　2018.03.28<br>
+          　File Version[Build FALS0188 | FALP0001]<br>
+          　(FAccLog Ultimate 1.88s 同等となっています。)<br>　ログ書き込みの制限を解除しています。<br>
+          </b></font><br>
+          <b>FAccLog Ultimate Free</b> は、FAccLog Ultimate版から一部機能制限し、個人向けにご使用頂けるフリーソフトウェアです。<br> 機能制限以外の部分は、FAccLog Ultimate版と同様の機能を搭載しています。<br>
+          </div>
+          <DIV class="txt"><FONT class="d" align="left"><B>(FAccLog Ultimate Free)<BR>
+          <a href="http://cgi.geocities.jp/daikoku_yu/cgi-bin/pagecon.cgi?page=http://www.daikokunet.jp/soft/F0188FP1/FAccLogUltFree.zip&amp;name=FAccLogUltFree188FP1"><img width="22" height="22" align="middle" alt="FAccLog Free ダウンロード" src="img_n022.gif" border="0">ダウンロード</a> </B><BR>
+          </FONT><br>
+            <hr style="background-image : url(img_p026.png);">
+            <br>
+          </DIV>
+          <hr>
+          <img src="img_a008.png" width="390" height="157" alt="商品イメージ4" class="left">
+          <h4><font color="#cc0000">Upload-Filter</font></h4>
+          <div class="txt" style="text-align : left;" align="left">共有フォルダのディスク容量の圧迫に悩んでいるあなたに、これ！<br> 共有フォルダに大きなサイズのファイルを置かれディスク圧迫しリソース不足になります。<br>クオーター設定も有効ですが、複数のユーザに解放しているフォルダでは管理も大変です。<br>そんなときに Upload-Filter は、指定サイズのファイル書き込みを検出して、<br>リスト表示、ログ出力します。また、ファイル書き込みを強制的に中止させる機能も追加、<br> 運用の手助けを行うツールです。<br>
+          <br>
+          <br>
+          32bit OS版<br>
+          Windows7 32bit、WindowsServer2008 32bit<br>
+          Upload-Filter 0.90 beta<br>
+          </div>
+          <DIV class="txt">2012/06/24 UP!<BR>
+          <FONT class="d" align="left"><B> Upload-Filter 0.90 Beta [FP1]  64,527 Bytes　2012.06.24<BR>　File Version[Build UFLS0090 | UFLP0001]<BR>
+          </B></FONT></DIV>
+          <DIV class="txt"><FONT class="d" align="left"><B> (Upload-Filter Beta)<BR>
+          <a href="http://cgi.geocities.jp/daikoku_yu/cgi-bin/pagecon.cgi?page=http://www.daikokunet.jp/soft/UF090/Upload-Filter.zip&amp;name=Upload-Filter090"><img width="22" height="22" align="middle" alt="Upload-Filter ダウンロード" src="img_n033.gif" border="0">ダウンロード</a> </B><BR>
+          </FONT></DIV>
+          <p><br>
+          </p>
+          <hr style="background-image : url(img_p026.png);">
+          <p><a href="down.html">■旧製品、旧バージョンのダウンロードサイトはこちら<br>
+          過去の製品のダウンロードページへ</a><br>
+          </p>
+          <hr style="background-image : url(img_p026.png);">
+          <p><BR>
+          </p>
+          <hr>
+          <h4>FAccLog Ultimate について</h4>
+          <table>
+            <tbody>
+              <tr>
+                <th>OS</th>
+                <td>XP/Vista/7/8/2003/2008/2012/WHS2011 <br>
+               ※NT3.1/NT3.5/NT4.0/Win3.1/95/98/98SE/ME では動作致しません。<br>
+                ※Win2000は動作検証しておりません。<br>
+                ※windows8およびwindows server 2012 R2には「<a href="http://www.win10pcap.org/ja/">WinPcap for Windows 10</a>」をご利用ください。</td>
+              </tr>
+              <tr>
+                <th>CPU </th>
+                <td>Intel系（2Core）以上を推薦</td>
+              </tr>
+              <tr>
+                <th>MEMORY </th>
+                <td>300MB(起動時) ユーザ数に応じてメモリ消費が上がります。</td>
+              </tr>
+              <tr>
+                <th>HDD </th>
+                <td>ログファイルに応じて</td>
+              </tr>
+              <tr>
+                <th>NIC </th>
+                <td>2枚まで</td>
+              </tr>
+              <tr>
+                <th>&nbsp;Driver </th>
+                <td>&nbsp;WinPcap ドライバが必要</td>
+              </tr>
+              <tr>
+                <th>&nbsp;Protocol </th>
+                <td>&nbsp;SMB1.0/SMB2.0</td>
+              </tr>
+              <tr>
+                <th>&nbsp;Session </th>
+                <td>デフォルト<br>
+                　512 セッション<br>
+                <br>
+                メモリパフォーマンスオプション<br>
+                512-5140以上 セッション <br>
+                　(拡張については追加ライセンス費用が必要)<br>
+                <br>
+                ユーザ同時セッションの目安<br>
+                　128 10-20 ユーザ同時セッション(デフォルト)<br>
+                　512 50-60 ユーザ同時セッション<br>
+                　1024 70-80 ユーザ同時セッション<br>
+                　3072 90-100 ユーザ同時セッション<br>
+                　5140- 150- ユーザ同時セッション</td>
+              </tr>
+              <tr>
+                <th>&nbsp;Command </th>
+                <td>&nbsp;nbtstatコマンドが利用できること</td>
+              </tr>
+              <tr>
+                <th>&nbsp;Locate </th>
+                <td>&nbsp;日本語</td>
+              </tr>
+              <tr>
+                <th>&nbsp;Library </th>
+                <td>&nbsp;Microsoft .NET Framework ランタイムライブラリ</td>
+              </tr>
+              <tr>
+                <th>&nbsp;Other </th>
+                <td>&nbsp;インターネットプロトコル(TCP/IP)インストールのこと</td>
+              </tr>
+              <tr>
+                <th>&nbsp;Exec </th>
+                <td>&nbsp;Administrator権限必須</td>
+              </tr>
+            </tbody>
+          </table>
+          <hr>
+          <div id="pagetop"><a href="#hpb-container">このページの先頭へ</a></div>
+        </div>
+        <!-- detail end -->
+      </div>
+      <!-- main end -->
+    </div>
+    <!-- wrapper end --><!-- navi -->
+    <div id="hpb-nav" style="z-index : 2;">
+      <h3 class="hpb-c-index">ナビゲーション</h3>
+      <ul>
+        <li id="nav-toppage"><a href="index.html"><span class="en">top&nbsp;page</span><span class="ja">トップページ</span></a>
+        <li id="nav-item"><a href="#"><span class="en"></span><span class="ja"></span></a><li id="nav-order"><a href="#"><span class="en"></span><span class="ja"></span></a>
+        <li id="nav-shop"><a href="#"><span class="en"></span><span class="ja"></span></a>
+        <li id="nav-campaign"><a href="#"><span class="en"></span><span class="ja"></span></a>
+      </ul>
+    </div>
+    <!-- navi end --><!-- aside -->
+    <div id="hpb-aside">
+      <div id="ranking">
+        <h3><img src="rankingNew.png" width="39" height="41" alt="毎日更新" class="new">人気商品ランキング</h3>
+        <ol>
+          <li id="r01"><a href="#">FAccLog Ultimate 10ライセンス </a><img src="icon_No1.gif" width="55" height="13" alt="人気No.1" class="no1">
+          <li id="r02">FALterm<li id="r03"><a href="#">FAccLog Ultimate メモリパフォーマンス</a>
+          <li id="r04"><a href="#">FAccLog Ultimate Free</a><li id="r05"><a href="#">FAccLog Ultimate</a>
+        </ol>
+      </div>
+      <div id="banner">
+        <h3 class="hpb-c-index">バナースペース</h3>
+        <ul>
+          <li><a href="#" id="banner-sale">SALE</a>
+          <li><a href="#" id="banner-present">プレゼント</a>
+          <li><a href="#" id="banner-magazine">メルマガ登録</a>
+          <li><a href="#" id="banner-rss">RSS</a>
+        </ul>
+      </div>
+      <div id="shopinfo">
+        <h3><span class="ja">販売元</span></h3>
+        <h4>だいこくネット<br>
+        facclog@daikokunet.jp<br>
+        </h4>
+      </div>
+    </div>
+    <!-- aside end -->
+  </div>
+  <!-- inner end --><!-- footer -->
+  <div id="hpb-footer">
+    <div id="hpb-footerMain">
+      <p>copyright&copy;2002-2014&nbsp;Daikoku-Net&nbsp;all&nbsp;rights&nbsp;reserved.</p>
+    </div>
+    <div id="hpb-footerExtra1">
+      <h3 class="hpb-c-index">サブナビゲーション</h3>
+      <ul>
+        <li><a href="#">プライバシーポリシー</a>
+        <li><a href="#">特定商取引法に関する記述</a>
+      </ul>
+    </div>
+  </div>
+  <!-- footer end -->
+</div>
+<!-- container end --></body>
+</html>

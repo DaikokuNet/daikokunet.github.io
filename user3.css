@@ -1,0 +1,113 @@
+@charset "Shift_JIS";
+
+/*--------------------------------------------------------
+  フルCSSプロフェッショナルテンプレート部品設定
+--------------------------------------------------------*/
+
+.hpb-parts-cnt-style
+{
+    border-color: #000000;
+    text-align: left !important;
+}
+
+.hpb-parts-hl-style
+{
+    padding: 0px 0.2em !important;
+    font-weight: bold !important;
+    color: #000000 !important;
+    background-image: none !important;
+    border-color: #000000;
+}
+
+.hpb-parts-cbox-style
+{
+    border-color: #000000;
+    text-align: left !important;
+}
+
+.hpb-parts-img-01
+{
+    margin: 0px !important;
+    border-width: 1px;
+    border-style: solid;
+    border-color: #000000;
+    background-color: #f0f0f0;
+}
+
+.hpb-parts-img-02
+{
+    padding: 0px;
+    margin: 4px !important;
+    border-width: 1px;
+    border-style: solid;
+    border-color: #000000;
+    background-color: #f0f0f0;
+}
+
+.hpb-parts-hr-style
+{
+    border-color: #9AC001;
+}
+
+.hpb-parts-pbox-style
+{
+    border-color: #000000;
+    background-color: #f0f0f0;
+}
+.hpb-parts-pbox-style h4
+{
+    padding: 0px;
+}
+.hpb-parts-pbox-style img
+{
+    padding: 0px;
+    border-width: 1px;
+    border-style: solid;
+    border-color: #000000;
+    background-color: #f0f0f0;
+}
+.hpb-parts-pbox-style .hpb-parts-img-03
+{
+    margin: 4px 9px 4px 4px !important;
+}
+.hpb-parts-pbox-style .hpb-parts-img-04
+{
+    margin: 4px 4px 4px 9px !important;
+}
+.hpb-parts-pbox-style .hpb-parts-img-05
+{
+    margin: 4px 4px 4px 4px !important;
+}
+.hpb-parts-pbox-style .hpb-parts-img-06
+{
+    margin: 4px 4px 4px -1px !important;
+}
+
+.hpb-parts-blist-style
+{
+    background-color: #f0f0f0;
+}
+a:link.hpb-parts-blist-style
+{
+    color: #000000;
+    border-color: #000000;
+}
+a:visited.hpb-parts-blist-style
+{
+    color: #000000;
+    border-color: #000000;
+}
+a:hover.hpb-parts-blist-style
+{
+    color: #9AC001;
+    border-color: #9AC001;
+}
+a:active.hpb-parts-blist-style
+{
+    color: #f53193;
+    border-color: #9AC001;
+}
+
+/*--------------------------------------------------------
+  ユーザー設定スタイル
+--------------------------------------------------------*/
