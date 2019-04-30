@@ -1,13 +1,13 @@
 <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
 <html lang="ja">
 <head>
-<meta http-equiv="Content-Type" content="text/html; charset=EUC-JP">
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 <meta http-equiv="Content-Style-Type" content="text/css">
 <meta http-equiv="Content-Script-Type" content="text/javascript">
-<meta name="description" content="�ե����륵���ФΥ��������ƻ�ʤ餳��">
-<meta name="keywords" content="FAccLog,FALterm,�������ƥ�,��������,�ƻ�,��ͭ,�ͥåȥ��,�Ŀ;���,ϳ����,ϳ��,�ץ饤�Х����ޡ���,�Ŀ;����ݸ�ˡ,�������,�ץ��,��Ʈ��,�Ϸ�,���ܷ�,�쥷�ץ�,����,����,DIY,����ץ�å�,GC8,EJ20">
+<meta name="description" content="ファイルサーバのアクセス監視ならこれ">
+<meta name="keywords" content="FAccLog,FALterm,セキュリティ,アクセス,監視,共有,ネットワーク,個人情報,漏えい,漏洩,プライバシーマーク,個人情報保護法,ガンダム,プラモ,戦闘機,模型,日本軍,レシプロ,銭湯,温泉,DIY,インプレッサ,GC8,EJ20">
 <meta name="GENERATOR" content="JustSystems Homepage Builder Version 18.0.14.0 for Windows">
-<title>���������ͥå�</title>
+<title>だいこくネット</title>
 <link rel="stylesheet" href="hpbparts.css" type="text/css" id="hpbparts">
 <link rel="stylesheet" href="container_11A_2c_top.css" type="text/css" id="hpbcontainer">
 <link rel="stylesheet" href="main_11A_2c.css" type="text/css" id="hpbmain">
@@ -39,7 +39,7 @@ document.write('<img width=1 height=1 '
 // -->
 </script>
 
-<div id="hpb-skip"><a href="#hpb-title">��ʸ�إ����å�</a></div>
+<div id="hpb-skip"><a href="#hpb-title">本文へスキップ</a></div>
 <!-- container -->
 <div id="hpb-container">
   <!-- inner -->
@@ -48,106 +48,106 @@ document.write('<img width=1 height=1 '
     <div id="hpb-wrapper">
       <!-- page title -->
       <div id="hpb-title">
-        <h1>���������ͥå�</h1>
-        <h2><font color="#5959ff" size="+1" style="font-size : 117%;">����ϳ�����ɻߤζ���̣������FAccLog��</font></h2>
-        <p><font color="#009900">�����Ȥ��Υե����륵���Фϡ֤��ġס�ï���ס֤ɤ��ˡסֲ��򤷤����פ��İ����Ƥ��ޤ�����<BR>
-        ����ʿ��ۤ򴶤��Ƥ��뤢�ʤ��˥ե����륵���ФΥ��������ƻ�ʤ餳�졪</font><font color="#00cc00"> </font></p>
+        <h1>だいこくネット</h1>
+        <h2><font color="#5959ff" size="+1" style="font-size : 117%;">情報漏えい防止の強い味方、『FAccLog』</font></h2>
+        <p><font color="#009900">今お使いのファイルサーバは「いつ」「誰が」「どこに」「何をしたか」を把握していますか？<BR>
+        そんな心配を感じているあなたにファイルサーバのアクセス監視ならこれ！</font><font color="#00cc00"> </font></p>
         <a href="fal_down_en.htm"><img src="img_l093.gif" border="0" style="border-top-width : 0px;border-left-width : 0px;border-right-width : 0px;border-bottom-width : 0px;" width="27" height="29"><font size="+1" color="#0000ff"><b>English Page</b></font></a></div>
       <!-- page title end --><!-- main -->
       <div id="hpb-main">
         <!-- toppage -->
         <div id="toppage">
           <div id="toppage-item">
-            <h3 class="hpb-c-index">�����꡼</h3>
+            <h3 class="hpb-c-index">ギャラリー</h3>
             <div class="item">
-              <a href="technical.html"><img src="pic_e001.jpg" width="200" height="160" alt="���᡼��01"></a>
-              <h4>���Ѿ���</h4>
-              <p>FAccLog��ư���ɬ�פʾ���Τ�����ˤʤ�ޤ���</p>
+              <a href="technical.html"><img src="pic_e001.jpg" width="200" height="160" alt="イメージ01"></a>
+              <h4>技術情報</h4>
+              <p>FAccLogを動作に必要な情報のご案内になります。</p>
             </div>
             <div class="item">
-              <a href="order.html"><img src="pic_e058.jpg" width="200" height="132" alt="���᡼��02"></a>
-              <h4>���ʤι����������ˤĤ���</h4>
-              <p>FAccLog�����ʤε�ǽ�ΰ㤤���б��С�����󡢥饤�������Τ�����ˤʤ�ޤ���</p>
+              <a href="order.html"><img src="pic_e058.jpg" width="200" height="132" alt="イメージ02"></a>
+              <h4>製品の購入、説明について</h4>
+              <p>FAccLog各製品の機能の違い、対応バージョン、ライセンス料のご案内になります。</p>
             </div>
             <div class="item">
-              <a href="schedule.html"><img src="pic_e060.jpg" width="200" height="150" alt="���᡼��03"></a>
-              <h4>��꡼������</h4>
-              <p>��꡼�����Ƥι�������Τ�����ˤʤ�ޤ���<a name="#1"></a></p>
+              <a href="schedule.html"><img src="pic_e060.jpg" width="200" height="150" alt="イメージ03"></a>
+              <h4>リリース内容</h4>
+              <p>リリース内容の更新情報のご案内になります。<a name="#1"></a></p>
             </div>
             <div class="item">
-              <a href="detail.html"><img src="pic_c076.jpg" width="200" height="133" alt="���᡼��04"></a>
-              <h4>FAccLog �����������</h4>
-              <p>���եȥ������Υ���������ɡ��饤���󥹹����Τ�����ˤʤ�ޤ���<a name="#2"></a></p>
+              <a href="detail.html"><img src="pic_c076.jpg" width="200" height="133" alt="イメージ04"></a>
+              <h4>FAccLog ダウンロード</h4>
+              <p>ソフトウェアのダウンロード、ライセンス購入のご案内になります。<a name="#2"></a></p>
             </div>
           </div>
           <div id="toppage-news">
-            <h3><span class="en">information</span><span class="ja">���Τ餻</span></h3>
+            <h3><span class="en">information</span><span class="ja">お知らせ</span></h3>
             <dl>
-              <dd><font color="#000000"><b>�᡼�륢�ɥ쥹���Ѥ��ޤ���</b></font><br>
-              <font color="#ff0000">�������᡼�륢�ɥ쥹</font><font size="+1"><br>
+              <dd><font color="#000000"><b>メールアドレスが変わりました</b></font><br>
+              <font color="#ff0000">新しいメールアドレス</font><font size="+1"><br>
               </font><font color="#0000ff" size="+1" style="font-size : 117%;">facclog@yahoo.co.jp</font>
             
             
             
-              <dt>2018ǯ07��01�� 
-              <dd>�����ץ󥽡����� FALterm �Υ�꡼��
-              <dt>2018ǯ03��28�� 
-              <dd> FAccLog Ultimate 1.88s FP101 �Υ�꡼��
-              <dt>2017ǯ03��05�� 
+              <dt>2018年07月01日 
+              <dd>オープンソース版 FALterm のリリース
+              <dt>2018年03月28日 
+              <dd> FAccLog Ultimate 1.88s FP101 のリリース
+              <dt>2017年03月05日 
               
-              <dd>FAccLog Ultimate 1.87s FP101 �Υ�꡼�� 
+              <dd>FAccLog Ultimate 1.87s FP101 のリリース 
               
               
-              <dt>2017ǯ02��05�� 
+              <dt>2017年02月05日 
               
               
               
-              <dd>FAccLog Ultimate 1.86s FP101 �Υ�꡼�� 
+              <dd>FAccLog Ultimate 1.86s FP101 のリリース 
               
               
               
-              <dt>2017ǯ01��21�� 
+              <dt>2017年01月21日 
               
               
               
-              <dd>FAccLog Ultimate 1.85s FP101 �Υ�꡼�� 
+              <dd>FAccLog Ultimate 1.85s FP101 のリリース 
               
               
               
               
               
-              <dt>2015ǯ09��27��
+              <dt>2015年09月27日
               
               
               
               
-              <dd>FAccLog Ultimate 1.80s FP101 �Υ�꡼�� 
+              <dd>FAccLog Ultimate 1.80s FP101 のリリース 
               
               
               
               
-              <dt>2015ǯ05��20�� 
+              <dt>2015年05月20日 
               
               
               
               
               
               
-              <dd>FAccLog Ultimate 1.79s FP102 �Υ�꡼�� 
+              <dd>FAccLog Ultimate 1.79s FP102 のリリース 
               
               
               
               
               
               
-              <dt>2015ǯ04��15�� 
+              <dt>2015年04月15日 
               
               
               
               
               
               
-              <dd>FAccLog Ultimate 1.78s FP101 �Υ�꡼�� 
+              <dd>FAccLog Ultimate 1.78s FP101 のリリース 
               
               
               
@@ -155,7 +155,7 @@ document.write('<img width=1 height=1 '
               
               
               
-              <dt>2015ǯ02��24�� 
+              <dt>2015年02月24日 
               
               
               
@@ -163,7 +163,7 @@ document.write('<img width=1 height=1 '
               
               
               
-              <dd>FAccLog Ultimate 1.77s FP101 �Υ�꡼�� 
+              <dd>FAccLog Ultimate 1.77s FP101 のリリース 
               
               
               
@@ -171,7 +171,7 @@ document.write('<img width=1 height=1 '
               
               
               
-              <dt>2015ǯ01��21�� 
+              <dt>2015年01月21日 
               
               
               
@@ -179,7 +179,7 @@ document.write('<img width=1 height=1 '
               
               
               
-              <dd>FAccLog Ultimate 1.76s FP101 �Υ�꡼�� 
+              <dd>FAccLog Ultimate 1.76s FP101 のリリース 
               
               
               
@@ -192,18 +192,18 @@ document.write('<img width=1 height=1 '
             <hr>
           </div>
           <div id="toppage-info">
-            <h3><span class="en">��꡼���ȥԥå�</span></h3>
+            <h3><span class="en">リリーストピック</span></h3>
             <h4>FAccLog / FALterm / Upload-Filter</h4>
             <p>2017/07/01<br>
-            ���� FALterm 1.00<br>
+            　■ FALterm 1.00<br>
             <br>
             2018/03/28<br>
-            ���� FAccLog Ultimate 1.88s FP101<br>
+            　■ FAccLog Ultimate 1.88s FP101<br>
             <br>
             2018/03/28<br>
-            ���� FAccLog Ultimate Free 1.88 FP1<br>
+            　■ FAccLog Ultimate Free 1.88 FP1<br>
             <br>2012/06/24<br>
-            ���� Upload-Filter 0.90 Beta</p>
+            　■ Upload-Filter 0.90 Beta</p>
             <hr>
           </div>
         </div>
@@ -214,8 +214,8 @@ document.write('<img width=1 height=1 '
     <!-- wrapper end --><!-- navi -->
     <div id="hpb-nav" style="text-align : right;" align="right">
       <ul>
-        <li id="menu01"><a href="#1"><span class="en">��꡼������</span></a>
-        <li id="menu02"><a href="#2"><span class="en">�����������</span></a>
+        <li id="menu01"><a href="#1"><span class="en">リリース情報</span></a>
+        <li id="menu02"><a href="#2"><span class="en">ダウンロード</span></a>
         <li id="menu03"> </ul>
     </div>
     <!-- navi end -->
@@ -223,10 +223,10 @@ document.write('<img width=1 height=1 '
   <!-- inner end --><!-- footer -->
   <div id="hpb-footer">
     <div id="hpb-footerMain">
-      <p>copyright&copy;2002 - 2019&nbsp;���������ͥå�&nbsp;all&nbsp;rights&nbsp;reserved.</p>
+      <p>copyright&copy;2002 - 2019&nbsp;だいこくネット&nbsp;all&nbsp;rights&nbsp;reserved.</p>
     </div>
     <div id="footerExtra1">
-      <div id="pagetop"><a href="#hpb-container">���Υڡ�������Ƭ��</a></div>
+      <div id="pagetop"><a href="#hpb-container">このページの先頭へ</a></div>
     </div>
   </div>
   <!-- footer end --><!-- container end --></div>
