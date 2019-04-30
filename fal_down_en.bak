@@ -1,15 +1,15 @@
-<?xml version="1.0" encoding="Shift_JIS"?>
+<?xml version="1.0" encoding="EUC-JP"?>
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 <html lang="ja" xml:lang="ja" xmlns="http://www.w3.org/1999/xhtml">
 <head>
 <title>SOFT PAGE</title>
-<meta http-equiv="Content-Type" content="text/html; charset=Shift_JIS" />
+<meta http-equiv="Content-Type" content="text/html; charset=EUC-JP" />
 <meta name="keywords" content="Daikoku net,FAccLog,Security,Monitoring,Sharing,Network,Personal Information,Leakage,Privacy Mark,Personal Information Protection Law" />
 <meta name="description" content="If you worry about this and if you want to monitor access of your file server, this system is for you!! FAccLog download Page" />
 <meta http-equiv="content-script-type" content="text/javascript" />
 <meta http-equiv="content-style-type" content="text/css" />
 <meta http-equiv="imagetoolbar" content="no" />
-<meta name="GENERATOR" content="JustSystems Homepage Builder Version 18.0.7.0 for Windows" />
+<meta name="GENERATOR" content="JustSystems Homepage Builder Version 18.0.14.0 for Windows" />
 <link href="default.css" rel="stylesheet" type="text/css" /> </head>
 <body>
 
@@ -91,20 +91,16 @@ Does the file server you use now really know  "When" "Who" "Where" "What it does
             <pre>
  We finished supporting maintenance of FAccLog Enterprise by 2011/12/31.<br/> We are offering special discounts to upgrade FAccLog Enterprise to FAccLog Ultimate.<br/> Please consider upgrading at this time.<br/></pre>
             <p class="day">Release Notes</p>
-            <pre>
-</pre>
+            
             <p>2012/01/29<br/>
             FAccLog Ultimate 1.60 Rev.3 trial version</p>
-            <pre>
-</pre>
+            
             <p>2011/12/07<br/>
             FAccLog Ultimate 1.59 Rev.5</p>
-            <pre>
-</pre>
+            
             <p>2011/11/21<br/>
             FAccLog Ultimate Free 1.58</p>
-            <pre>
-</pre>
+            
             <p>2008/04/28<br/>
             FAccLogEnterprise operating manual_vol1<br/>
             <a href="http://www2s.biglobe.ne.jp/~masa-nak/fal_mail/fal_mail.html">Here is the differences in product</a></p>
@@ -114,7 +110,7 @@ Does the file server you use now really know  "When" "Who" "Where" "What it does
 </pre>
             <p class="day">Technical Information</p>
             <pre> * FAccLog Ultimate is needed to install &quot;WinPcap&quot; .Please download from the URL below <a href="http://www.winpcap.org/install/bin/WinPcap_4_1_2.exe">Download "WinPcap 4.1.2"</a>
-  <a href="http://www.winpcap.org/install/default.htm">Download page for WinPcap</a> * FAccLog Ultimate doesn't accept IPv6 addresses. Please activate only IPv4. Some solutions are in the files &quot;01.Readme.txt&quot; &quot;05.In case of &quot;A specified adapter name of IP address is undetectable&quot;.txt&quot; * How to Cope with 「Failed driver installation.002」when starting to collect on FAccLog Enterprise. <a href="cgi-bin/pagecon.cgi?page=http://www2s.biglobe.ne.jp/~masa-nak/doc/drv.zip&amp;name=DRV_ZIP">How to Cope with driver error when starting to collect</a>
+  <a href="http://www.winpcap.org/install/default.htm">Download page for WinPcap</a> * FAccLog Ultimate doesn't accept IPv6 addresses. Please activate only IPv4. Some solutions are in the files &quot;01.Readme.txt&quot; &quot;05.In case of &quot;A specified adapter name of IP address is undetectable&quot;.txt&quot; * How to Cope with ｡ﾖFailed driver installation.002｡ﾗwhen starting to collect on FAccLog Enterprise. <a href="cgi-bin/pagecon.cgi?page=http://www2s.biglobe.ne.jp/~masa-nak/doc/drv.zip&amp;name=DRV_ZIP">How to Cope with driver error when starting to collect</a>
   <a href="cgi-bin/pagecon.cgi?page=http://www2s.biglobe.ne.jp/~masa-nak/soft/dip/FAL_DriverUninstall.zip&amp;name=DIP_ZIP">FAL_DriverUninstall.zip  Tools for uninstalling FAccLog drivers</a>
 
 * The way to manually set up when GUI of monitoring exclusion is not shown.
@@ -130,20 +126,16 @@ Does the file server you use now really know  "When" "Who" "Where" "What it does
             <p class="day">Development Kit</p>
             <pre>
  <a href="cgi-bin/pagecon.cgi?page=http://www2s.biglobe.ne.jp/~masa-nak/license.html&amp;name=FACCLOG_LICENSE">To order development license (development kit)</a></pre>
-            <pre>
-
-</pre>
+            
             <p class="day">By bank transfer, estimate sheet, billing statement, compatible operating system etc</p>
             <pre>
  <a href="cgi-bin/pagecon.cgi?page=http://www2s.biglobe.ne.jp/~masa-nak/fal_mail/fal_mail.html&amp;name=FACCLOG_GINKO">To order by bank transfer</a></pre>
-            <pre>
-
-</pre>
+            
             <p class="day">Media, Magazines</p>
             <pre>
  <a href="cgi-bin/pagecon.cgi?page=http://www.vector.co.jp/magazine/softnews/090818/n0908182.html&amp;name=FACCLOG_VECTOR">FAccLog was introduced on "Vector"</a>
  <a href="cgi-bin/pagecon.cgi?page=http://www.forest.impress.co.jp/article/2006/03/31/facclogfree.html&amp;name=FACCLOG_MADO">FAccLog was introduced on "Madono-mori(WINDOWS FOREST)"</a>
- (Shinyusya) Windows100 2008.3 No.0113、2010.3 No.0137
+ (Shinyusya) Windows100 2008.3 No.0113｡｢2010.3 No.0137
  (Shinyusya) iP 2003.11 2004.11 2008.04
  (SoftBank Creative) PC Japan 2008.07
  (Impress) DOS/V POWER REPORT 2003.11
@@ -159,7 +151,7 @@ Does the file server you use now really know  "When" "Who" "Where" "What it does
 <br />
   <Part of the system summary>
     AccLogWatcher is a tool for analyzing access log that has been scraped by the server.
-    It is used to acquire "privacy mark" and ＩＳＭＳ certification, and has also achieved this simple method due to it's close collaboration with EXCEL.
+    It is used to acquire "privacy mark" and ｣ﾉ｣ﾓ｣ﾍ｣ﾓ certification, and has also achieved this simple method due to it's close collaboration with EXCEL.
       1.Monitoring function of access log to file server
       2.Output function of the server access number list by day
       3.Output function of checking list of access to the server after the allowed time

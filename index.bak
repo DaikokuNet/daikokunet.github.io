@@ -75,7 +75,7 @@ document.write('<img width=1 height=1 '
               <p>リリース内容の更新情報のご案内になります。<a name="#1"></a></p>
             </div>
             <div class="item">
-              <a href="down.html"><img src="pic_c076.jpg" width="200" height="133" alt="イメージ04"></a>
+              <a href="detail.html"><img src="pic_c076.jpg" width="200" height="133" alt="イメージ04"></a>
               <h4>FAccLog ダウンロード</h4>
               <p>ソフトウェアのダウンロード、ライセンス購入のご案内になります。<a name="#2"></a></p>
             </div>
