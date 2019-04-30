@@ -3,20 +3,18 @@
 <title>FAccLogダウンロード</title>
 	<meta http-equiv="Content-Type" content="text/html; charset=Shift_JIS">
 	<meta http-equiv="Content-Script-Type" content="text/javascript">
-	<meta http-equiv="Content-Style-Type"  content="text/css">
+	<meta http-equiv="Content-Style-Type" content="text/css">
+<meta name="GENERATOR" content="JustSystems Homepage Builder Version 18.0.14.0 for Windows">
 </head>
-
-<br>
-
+<body><br>
 <center>
 
   <table width="620" border="0">
     <tr> 
-      <td><img src="./download.jpg" alt="ダウンロードサービス"></td>
+      <td><img src="download.jpg" alt="ダウンロードサービス"></td>
     </tr>
   </table>
-
-  <table width="600" border="0" cellspacing="0" cellpadding="0">
+<table width="600" border="0" cellspacing="0" cellpadding="0">
     <tr align="center" bgcolor="#CCCCCC"> 
       <td><img src="/soft/img/space_glay.gif" width="1" height="10"><br>
         <table width="560" border="0" cellpadding="0">
@@ -337,9 +335,11 @@
 
 
 <br><br>
+    <center>
 
-<center>
 
-
+</center>
+    </table>
+</center>
 </body>
 </html>

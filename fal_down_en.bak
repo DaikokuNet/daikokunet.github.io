@@ -1,0 +1,303 @@
+<?xml version="1.0" encoding="Shift_JIS"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html lang="ja" xml:lang="ja" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>SOFT PAGE</title>
+<meta http-equiv="Content-Type" content="text/html; charset=Shift_JIS" />
+<meta name="keywords" content="Daikoku net,FAccLog,Security,Monitoring,Sharing,Network,Personal Information,Leakage,Privacy Mark,Personal Information Protection Law" />
+<meta name="description" content="If you worry about this and if you want to monitor access of your file server, this system is for you!! FAccLog download Page" />
+<meta http-equiv="content-script-type" content="text/javascript" />
+<meta http-equiv="content-style-type" content="text/css" />
+<meta http-equiv="imagetoolbar" content="no" />
+<meta name="GENERATOR" content="JustSystems Homepage Builder Version 18.0.7.0 for Windows" />
+<link href="default.css" rel="stylesheet" type="text/css" /> </head>
+<body>
+
+
+<script language="JavaScript">
+<!--
+document.write('<img width=1 height=1 '
+	+ 'src="http://www2s.biglobe.ne.jp/~masa-nak/accesslog.cgi?ref='
+	+ escape(document.referrer)
+	+ '&add=1">');
+// -->
+</script>
+
+
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-28381233-2']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+<div id="bg">
+  <div id="container">
+<div id="head">
+<h1>FAccLog,Security,Monitoring,Sharing,Network,Personal Information,Leakage,Privacy Mark,Personal Information Protection Law</h1>
+<h2><a href="./">Welcome to the FAccLog Download Site</a></h2>
+<div id="right"><p> <br />Daikoku-Net<br />  2002-2012</p></div>
+</div>
+
+
+<div class="line01"></div>
+    <div id="contents">
+<div id="g_menu">
+<ul>
+<li><a href="./">Home</a></li>
+<li><a href="fal_down_en.htm#NEW1">Latest Information</a></li>
+<li><a href="fal_down_en.htm#FALULT1">FAccLog Ultimate</a></li>
+<li><a href="fal_down_en.htm#FALFREE">FAccLog Free</a></li>
+<li><a href="fal_down_en.htm#faltest">FAccLog Ultimate Trial</a></li>
+<li><a href="fal_down_en.htm#INFO1">Other Technical Info</a></li>
+<li><a href="http://www2s.biglobe.ne.jp/~masa-nak/fal_form/wforum.cgi">Community</a></li>
+<li><a href="down.html">Former Version</a></li>
+        </ul>
+        <br />
+        <br />
+        <br />
+        <br />
+      </div>
+      <h3>
+Does the file server you use now really know  "When" "Who" "Where" "What it does"?<br />
+      If you worry  about this and if you want to monitor access of your file server, this system is for you!!
+</h3>
+      <div id="main">
+<div id="top">
+          <center>You are visitor number<br />
+          <img src="/vpack/Count.cgi?dd=B" /></center>
+          <br />
+          <br />
+          <br />
+          <center>
+          <h3><a href="index.html" &name='fal_down&quot;'>Japanese Page</a></h3>
+          </center>
+          <br />
+          <a name="NEW1"></a>
+<h3>WHAT'S NEW</h3>
+<div id="news">
+<p class="day"><strong>&lt;2013/08/07&gt;</strong></p>
+            <pre>
+<strong>FAccLog Ultimate 1.73 FP1</strong><br />
+
+</pre>
+            <p class="day">2010/12/12</p>
+            <pre>
+ We finished supporting maintenance of FAccLog Enterprise by 2011/12/31.<br/> We are offering special discounts to upgrade FAccLog Enterprise to FAccLog Ultimate.<br/> Please consider upgrading at this time.<br/></pre>
+            <p class="day">Release Notes</p>
+            <pre>
+</pre>
+            <p>2012/01/29<br/>
+            FAccLog Ultimate 1.60 Rev.3 trial version</p>
+            <pre>
+</pre>
+            <p>2011/12/07<br/>
+            FAccLog Ultimate 1.59 Rev.5</p>
+            <pre>
+</pre>
+            <p>2011/11/21<br/>
+            FAccLog Ultimate Free 1.58</p>
+            <pre>
+</pre>
+            <p>2008/04/28<br/>
+            FAccLogEnterprise operating manual_vol1<br/>
+            <a href="http://www2s.biglobe.ne.jp/~masa-nak/fal_mail/fal_mail.html">Here is the differences in product</a></p>
+            <pre>
+
+<a name="INFO1"></a>
+</pre>
+            <p class="day">Technical Information</p>
+            <pre> * FAccLog Ultimate is needed to install &quot;WinPcap&quot; .Please download from the URL below <a href="http://www.winpcap.org/install/bin/WinPcap_4_1_2.exe">Download "WinPcap 4.1.2"</a>
+  <a href="http://www.winpcap.org/install/default.htm">Download page for WinPcap</a> * FAccLog Ultimate doesn't accept IPv6 addresses. Please activate only IPv4. Some solutions are in the files &quot;01.Readme.txt&quot; &quot;05.In case of &quot;A specified adapter name of IP address is undetectable&quot;.txt&quot; * How to Cope with 「Failed driver installation.002」when starting to collect on FAccLog Enterprise. <a href="cgi-bin/pagecon.cgi?page=http://www2s.biglobe.ne.jp/~masa-nak/doc/drv.zip&amp;name=DRV_ZIP">How to Cope with driver error when starting to collect</a>
+  <a href="cgi-bin/pagecon.cgi?page=http://www2s.biglobe.ne.jp/~masa-nak/soft/dip/FAL_DriverUninstall.zip&amp;name=DIP_ZIP">FAL_DriverUninstall.zip  Tools for uninstalling FAccLog drivers</a>
+
+* The way to manually set up when GUI of monitoring exclusion is not shown.
+  <a href="cgi-bin/pagecon.cgi?page=http://www2s.biglobe.ne.jp/~masa-nak/doc/kansi.zip&amp;name=KANSI_ZIP">Specification document of monitor exclusion</a>
+
+* This is the operating manual for understanding and using FAccLog Ultimate.
+  <a href="cgi-bin/pagecon.cgi?page=http://www2s.biglobe.ne.jp/~masa-nak/soft/ENT_DOC/FAccLogUltimate_Vol3.pdf&amp;name=FAccLog_DOC_ULT">Operations manual (Ultimate)</a>
+
+* This is the operating manual for understanding and using FAccLog Enterprise.
+  <a href="cgi-bin/pagecon.cgi?page=http://www2s.biglobe.ne.jp/~masa-nak/soft/ENT_DOC/FAccLog_DOC.zip&amp;name=FAccLog_DOC">Operations manual (Enterprise)</a> * Regarding not being able to get access log when accessing with SMB2.0 protocol up to FAccLog Ultimate1.49 We received information about workaround which will change the conventional SMB1.0 signal.</pre>
+            <pre>
+  Based on <a href="http://technet.microsoft.com/en-us/security/bulletin/ms07-063">http://technet.microsoft.com/en-us/security/bulletin/ms07-063</a> will change (add to) the registry of server and change toSMB1.0 signal linked pages &gt; vulnerability details &gt; vulnerability of SMBv2 signature - CVE-2007-5351 &gt; workaround of &quot;vulnerability of SMBv2 signature&quot; - CVE-2007-5351: &gt; disable SMBv2 Regarding occurring composition, it will occur when accessing files on Windows2008, vista, and windows7 * Here is the extracted process <a href="http://www2s.biglobe.ne.jp/~masa-nak/pdf/SMB20_Unset.pdf">SMB20_Unset.pdf</a> &lt; Collection of SMB2.0 protocol access is available from FAccLog Ultimate 1.50 &gt; </pre>
+            <p class="day">Development Kit</p>
+            <pre>
+ <a href="cgi-bin/pagecon.cgi?page=http://www2s.biglobe.ne.jp/~masa-nak/license.html&amp;name=FACCLOG_LICENSE">To order development license (development kit)</a></pre>
+            <pre>
+
+</pre>
+            <p class="day">By bank transfer, estimate sheet, billing statement, compatible operating system etc</p>
+            <pre>
+ <a href="cgi-bin/pagecon.cgi?page=http://www2s.biglobe.ne.jp/~masa-nak/fal_mail/fal_mail.html&amp;name=FACCLOG_GINKO">To order by bank transfer</a></pre>
+            <pre>
+
+</pre>
+            <p class="day">Media, Magazines</p>
+            <pre>
+ <a href="cgi-bin/pagecon.cgi?page=http://www.vector.co.jp/magazine/softnews/090818/n0908182.html&amp;name=FACCLOG_VECTOR">FAccLog was introduced on "Vector"</a>
+ <a href="cgi-bin/pagecon.cgi?page=http://www.forest.impress.co.jp/article/2006/03/31/facclogfree.html&amp;name=FACCLOG_MADO">FAccLog was introduced on "Madono-mori(WINDOWS FOREST)"</a>
+ (Shinyusya) Windows100 2008.3 No.0113、2010.3 No.0137
+ (Shinyusya) iP 2003.11 2004.11 2008.04
+ (SoftBank Creative) PC Japan 2008.07
+ (Impress) DOS/V POWER REPORT 2003.11
+
+<a name="ACCLOG"></a>
+</pre>
+            <p class="day">Related Products</p>
+            <pre>
+  (4Z CORPORATION, Inc) 
+  Introducing the file server log analyzing tool for *"privacy mark" application by using "FaccLog"
+  *"Privacy mark" is a recognition system that handles personal information that is managed by "JIPDEC"
+  <a href="http://www.zzzz.co.jp/">Please visit this link to ask about this product</a>
+<br />
+  <Part of the system summary>
+    AccLogWatcher is a tool for analyzing access log that has been scraped by the server.
+    It is used to acquire "privacy mark" and ＩＳＭＳ certification, and has also achieved this simple method due to it's close collaboration with EXCEL.
+      1.Monitoring function of access log to file server
+      2.Output function of the server access number list by day
+      3.Output function of checking list of access to the server after the allowed time
+      4.Output function of access history to the server
+      5.Marking folders for confidential information
+      6.Regular output of the administrating list
+    <a href="cgi-bin/pagecon.cgi?page=http://www2s.biglobe.ne.jp/~masa-nak/AccLog_Watcher/ACCLOG_INTRO.pdf&amp;name=ACCLOG_INTRO">* Introducing access log analyzing tools</a>
+    <a href="cgi-bin/pagecon.cgi?page=http://www2s.biglobe.ne.jp/~masa-nak/AccLog_Watcher/ACCLOG_PANF.pdf&amp;name=ACCLOG_PANF">* A brochure of access log analyzing tools</a>
+</pre>
+          </div><!-- news end -->
+
+
+<!-- FAccLog Ultimate -->
+<br/>
+<br/><a name="FALULT1"></a>
+<div class="txt">
+            <h3><font color="#cc0000">Does the file server you use now really know "When" "Who" "Where" "What it does"?<br/>
+            If you worry  about this and if you want to monitor access of your file server, this system is for you!!
+</font></h3>
+            <br />
+          </div>
+
+<div class="txt">
+<p class="L">
+<a href="img/fal_ent.jpg">
+<img src="img/fal_ent.jpg" width="238" height="143" border="0" alt="FAccLog Ultimate" />
+</a>
+</p>
+2013/08/07 UP!<br />
+            <font align="left" class="d"><b>
+FAccLog Ultimate 1.73 [FP1]<br />
+            File Version[Build FALS1173 | FALP0001]<br />
+            </b></font><br />
+            <h3><font color="#cc0000">FAccLog Ultimate continues to use the GUI that had a good reputation with FAccLog Enteprise along with it's stability, the speed up of the processing system and being compatible with Windows Server 2008.<br />
+            </font></h3>
+            <br />
+            <br />
+            FAccLog Ultimate is for the customer who needs to work on information leaks, privacy mark and personal information protection law and also need to monitor access to shared folder.<br />
+            FAccLog Ultimate supports the analyzing access log that is one of the essential items of the security audit.
+ <br />
+            <br />
+            By introducing 
+FAccLog Ultimate, you can collect the user history accessed to the file server and you can use the collected access log as the source of information for audit. <br />
+            <br />
+            FAccLog Ultimate uses a packet capture form for access analyzing so clients are able to avoid troublesome installation and setup
+.<br />
+            This system puts a light burden on the server because it is a low server load because of the access monitor being a packet capture form. Also this system is available to combine easily with commercial monitoring log systems because access information is able to be collected as a log.<br />
+            <br />
+            As an access monitor, many options are available to give your operation detailed support. 
+<br />
+            Access that is available to be collected, namely, "reference" "writing" "rename" "delete"are secure. By implementing FAccLog Ultimate,  you are able to easily extract access information from login to logout from "TREE ID" which is linked to a series of operations by users.
+<br />
+            <br />
+            <font color="#cc0000">
+This is compatible with Windows Server 2008.<br />
+            * This is compatible with  "WindowsXP, Vista, Windows7, 2003, 2008".<br />
+            * We received a report of action, but it has not been tested yet for 64bit version.<br />
+            * Collecting access of SMB 1.0 and SMB 2.0 are available as from FAccLog Ultimate 1.50.  <br />
+            <br />
+            The installation of "WinPcap" is necessary.<br />
+            Please visit "WinPcap" pages about installing "WinPcap" <br />
+            http://www.winpcap.org/<br />
+            </font><br />
+            <br />
+          </div>
+
+<div class="txt"><font align="left" class="d"><b>
+(FAccLog Ultimate)<br />
+          <a href="cgi-bin/pagecon.cgi?page=http://www2s.biglobe.ne.jp/~masa-nak/soft/ULT173FP1/FAccLog_UltimateEN.zip&amp;name=FAccLog_Ultimate173EN">
+        <img src="img/folder.gif" align="middle" width="22" height="29" border="0" alt="FAccLog Enterprise Download" />Download</a>
+        <a href="http://www.vector.co.jp/soft/winnt/util/se479701.html" target="_blank">
+        <img src="img/folder.gif" align="middle" width="22" height="29" border="0" alt="FAccLog Ultimate License Purchase" />License Purchase</a>
+        <a href="http://www2s.biglobe.ne.jp/~masa-nak/fal_mail/fal_mail.html" target="_blank">
+        <img src="img/folder.gif" align="middle" width="22" height="29" border="0" alt="FAccLog Ultimate Order by bank transfer" />Order by bank transfer</a>
+                <a href="http://www2s.biglobe.ne.jp/~masa-nak/fal_mail/paypal.html" target="_blank">
+        <img src="img/folder.gif" align="middle" width="22" height="29" border="0" alt="FAccLog Ultimate Order by PayPal" />Order by PayPal</a>
+</b><br />
+          <br />
+          </font></div>
+
+
+<div id="news">
+<!-- FAccLog Free -->
+<br/>
+<br/><a name="FALFREE"></a>
+<div class="txt">
+              <h3><font color="#cc0000">Does the file server you use now really know "When" "Who" "Where" "What it does"?<br />
+              If you worry  about this and if you want to monitor access of your file server, this system is for you!!
+</font></h3>
+              <br />
+            </div>
+
+<div class="txt">
+<p class="L">
+<a href="img/fal_ent.jpg">
+    <img src="img/fal_ent.jpg" width="238" height="143" />
+</a>
+</p>
+2013/08/07 UP!<br />
+              <font align="left" class="d"><b>
+FAccLog Ultimate Free 1.73 [FP1]<br />
+              File Version[Build FALS0173 | FALP0001]<br />
+              </b></font><br />
+              <b>FAccLog Ultimate Free</b> is a free software which has put a limit to some of the systems from FAccLog Ultimate and is for individual users.<br />
+              With the exception of these limitations, this free software has the same features as FAccLog Ultimate.<br />
+              <br />
+              <br />
+            </div>
+
+<div class="txt"><font align="left" class="d"><b>
+(FAccLog Free)<br />
+            <a href="cgi-bin/pagecon.cgi?page=http://www2s.biglobe.ne.jp/~masa-nak/soft/F0173FP1/FAccLogUltFree.zip&amp;name=FAccLogUltFree173EN">
+        <img src="img/folder.gif" align="middle" width="22" height="29" border="0" alt="FAccLog Free Download" />Download</a>
+</b><br />
+            <br />
+            </font></div>
+</div>
+
+
+
+
+
+<p><strong><a href="http://www.dxpnet.com/riot/">wwwRIOT search</a></strong><br />
+An online guide to websites from automotive to travel and all websites in between</p>
+
+<br />
+          <a href="http://www.amfibi.com/" target="_top"><img src="http://banners.amfibi.com/small/red.gif" border="0" alt="Amfibi Web Search &amp; Directory" /></a>
+
+<br />
+          <div id="foot_up"> </div>
+<div id="foot">copyright (c)<script language="javascript">document.write(new Date().getFullYear())</script> <a href="http://www2s.biglobe.ne.jp/~masa-nak/fal_down_en.htm">Daikoku-Net</a> All rights reserved.
+</div>
+</div>
+</div>
+
+
+</div>
+  </div>
+</div>
+</body>
+</html>
